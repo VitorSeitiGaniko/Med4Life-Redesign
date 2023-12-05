@@ -563,7 +563,7 @@ ul {
 }
 body {
     font-family: "Questrial", sans-serif;
-    background: #f2f2f2;
+    background: #FFF;
     font-size: 14px;
 }
 a {
@@ -1108,6 +1108,7 @@ a {
     font-size: 24px;
     color: #3a708e;
     text-transform: uppercase;
+    margin-right: 8px;
 }
 @media (max-width: 992px) {
     .agenda__text h2 {
@@ -1177,6 +1178,7 @@ a {
     }
 }
 .especialidade_container img {
+    border-radius: 20px;
     width: 100%;
 }
 .especialidade_container p {
@@ -1235,7 +1237,7 @@ a {
     }
 }
 .footer .container01_imagem a img {
-    width: 368px;
+    width: 376px;
 }
 @media (min-width: 600px) and (max-width: 1024px) {
     .footer .container01 {
@@ -1990,6 +1992,7 @@ a {
     font-size: 24px;
     color: #3a708e;
     text-transform: uppercase;
+    margin-right: 8px;
 }
 @media (max-width: 992px) {
     .reembolso__texto h2 {
